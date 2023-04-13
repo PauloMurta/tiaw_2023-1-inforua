@@ -1,12 +1,6 @@
 <!-- CSS COM ERRO -->
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap');
 
-
-
-
-
-
-
 * {
     padding: 0;
     margin: 0;
@@ -118,6 +112,8 @@ body {
 .input-box input:hover {
     background-color: #eeeeee75;
 }
+
+
 
 .input-box input:focus-visible {
     outline: 1px solid #6c63ff;
