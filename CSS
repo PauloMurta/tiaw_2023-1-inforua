@@ -7,6 +7,9 @@
 
 
 
+
+
+
 * {
     padding: 0;
     margin: 0;
@@ -92,6 +95,8 @@ body {
     position: absolute;
     border-radius: 10px;
 }
+
+
 
 .input-group {
     display: flex;
